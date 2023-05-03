@@ -12,3 +12,11 @@ section.portfolio {
     height: 700px;
     border: 1px solid blue;
 }
+
+section.upper-f {
+    background-color: #3a546d;
+    /*Da rimuovere*/
+    height: 300px;
+    border: 1px solid brown;
+
+}
