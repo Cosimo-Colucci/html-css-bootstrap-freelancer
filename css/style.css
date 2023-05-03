@@ -16,7 +16,6 @@ section.portfolio {
 section.upper-f {
     background-color: #3a546d;
     /*Da rimuovere*/
-    height: 300px;
     border: 1px solid brown;
 
 }
@@ -24,7 +23,17 @@ section.upper-f {
 section.lower-f {
     background-color: #2c3e50;
     /*Da rimuovere*/
-    height: 150px;
     border: 1px solid rgb(77, 39, 39);
 
+}
+
+/*Da rimuovere*/
+div.upper-f {
+    height: 300px;
+    border: 1px solid rgb(202, 181, 181);
+}
+
+div.lower-f {
+    height: 150px;
+    border: 1px solid rgb(190, 166, 166);
 }
