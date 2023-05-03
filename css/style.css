@@ -1,0 +1,8 @@
+section.jumbo,
+section.about {
+    background-color: #1abc9c;
+    color: white;
+    /*Da rimuovere*/
+    height: 500px;
+    border: 1px solid black;
+}
