@@ -8,11 +8,14 @@ section.about {
 }
 
 section.portfolio {
-    /*Da rimuovere*/
-    height: 700px;
+    /*Da rimuovere*/v 
     border: 1px solid blue;
 }
-
+/*Da rimuovere*/
+div.col-12 {
+    height: 100px;
+    border: 2px solid red;
+}
 section.upper-f {
     background-color: #3a546d;
     /*Da rimuovere*/
