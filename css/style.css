@@ -5,7 +5,9 @@ section.about {
     /*Da rimuovere*/
     border: 1px solid black;
 }
-
+div.jumbo-tron img{
+    max-width: 200px;
+}
 section.portfolio {
     /*Da rimuovere*/ 
     border: 1px solid blue;
