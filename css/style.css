@@ -6,3 +6,9 @@ section.about {
     height: 500px;
     border: 1px solid black;
 }
+
+section.portfolio {
+    /*Da rimuovere*/
+    height: 700px;
+    border: 1px solid blue;
+}
