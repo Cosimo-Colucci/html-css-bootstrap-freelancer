@@ -13,6 +13,10 @@ section.portfolio img {
     margin: 1rem 0;
     border-radius: 3%;
 }
+
+section.about div.row {
+    width: 80%;
+}
 div.button button {
     background-color: #1abc9c;
     border: 1px solid white;
